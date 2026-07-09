@@ -19,7 +19,7 @@ A modern, futuristic password strength scanner built with HTML, CSS, and JavaScr
 
 ## 📸 Screenshot
 
-![CIPHER Password Strength Scanner](assets/preview.png)
+![CIPHER Password Strength Scanner]  assets/preview.png 
 
 ## 🚀 Installation
 
