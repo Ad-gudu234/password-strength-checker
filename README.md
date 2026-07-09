@@ -1,29 +1,64 @@
-# 🔐 CIPHER – Password Strength Scanner
+🔐 CIPHER // Password Strength Scanner
 
-A modern, futuristic password strength scanner built with HTML, CSS, and JavaScript.
+A modern and futuristic password strength analyzer built using HTML, CSS, and JavaScript. CIPHER helps users evaluate the security of their passwords in real time by analyzing password length, character variety, and overall strength through an intuitive cyber-themed interface.
 
-## ✨ Features
+📌 Description
 
-- Real-time password strength analysis
-- Password entropy calculation
-- Character variety detection
-- Responsive futuristic UI
-- Client-side processing (No data leaves your browser)
-- Fast and lightweight
+CIPHER is designed to promote better password security by providing instant feedback as users type. It encourages the creation of strong and secure passwords while maintaining complete privacy, as all processing is performed directly in the browser.
 
-## 🛠️ Technologies Used
+✨ Features
+Real-time password strength analysis
+Password length validation
+Uppercase and lowercase character detection
+Number detection
+Special character detection
+Dynamic password strength meter
+Modern cyber-themed user interface
+Responsive design for desktop and mobile
+Fast and lightweight
+100% client-side processing
+🛠️ Technologies Used
+HTML5
+CSS3
+JavaScript
+📸 Screenshot
 
-- HTML5
-- CSS3
-- JavaScript
+Add a screenshot of the application here.
 
-## 📸 Screenshot
+🚀 Installation
+Clone the repository.
+Open the project folder.
+Open index.html in any modern web browser.
+Start analyzing password strength instantly.
+🌐 Live Demo
 
-![CIPHER Password Strength Scanner]  assets/preview.png 
+After enabling GitHub Pages:
 
-## 🚀 Installation
+https://ad-gudu234.github.io/password-strength-checker/
 
-Clone the repository
+🔒 Privacy
 
-```bash
-git clone https://github.com/Ad-gudu234/password-strength-checker.git
+CIPHER performs all password analysis locally in the browser. No passwords are stored, transmitted, or shared with any server, ensuring complete user privacy.
+
+🎯 Future Improvements
+Password Generator
+Password Entropy Calculator
+Password Breach Detection
+AI Password Suggestions
+Dark and Light Theme Support
+Multi-language Support
+📄 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Developer
+
+Subhrajeet Behera
+
+Cybersecurity Student | Web Developer | Ethical Hacking Enthusiast
+
+GitHub: https://github.com/Ad-gudu234
+
+⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub. Your support helps improve the project and encourages future development.
