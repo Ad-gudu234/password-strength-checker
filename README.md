@@ -1,64 +1,163 @@
-🔐 CIPHER // Password Strength Scanner
+# 🔐 CIPHER // Password Strength Scanner
 
-A modern and futuristic password strength analyzer built using HTML, CSS, and JavaScript. CIPHER helps users evaluate the security of their passwords in real time by analyzing password length, character variety, and overall strength through an intuitive cyber-themed interface.
+<p align="center">
+  <img src="asst/img/logo.png" alt="CIPHER Logo" width="140">
+</p>
 
-📌 Description
+<h3 align="center">
+A Modern & Futuristic Password Strength Analyzer
+</h3>
 
-CIPHER is designed to promote better password security by providing instant feedback as users type. It encourages the creation of strong and secure passwords while maintaining complete privacy, as all processing is performed directly in the browser.
+<p align="center">
+Analyze password security instantly with a sleek cyber-themed interface.
+Built with HTML, CSS, and JavaScript.
+</p>
 
-✨ Features
-Real-time password strength analysis
-Password length validation
-Uppercase and lowercase character detection
-Number detection
-Special character detection
-Dynamic password strength meter
-Modern cyber-themed user interface
-Responsive design for desktop and mobile
-Fast and lightweight
-100% client-side processing
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-📸 Screenshot
+---
 
-Add a screenshot of the application here.
+## 📸 Screenshot
 
-🚀 Installation
-Clone the repository.
-Open the project folder.
-Open index.html in any modern web browser.
-Start analyzing password strength instantly.
-🌐 Live Demo
+<p align="center">
+  <img src="asst/img/preview.png" alt="CIPHER Screenshot" width="1000">
+</p>
+
+---
+
+# ✨ Features
+
+- 🔒 Real-time password strength analysis
+- 📊 Dynamic password strength meter
+- 🔤 Uppercase & lowercase detection
+- 🔢 Number detection
+- 🔣 Special character detection
+- 📏 Password length validation
+- ⚡ Instant security feedback
+- 🖥️ Fully responsive design
+- 🎨 Modern futuristic cyber UI
+- 🌙 Dark theme interface
+- 🔐 100% Client-side processing
+- 🚀 Fast & Lightweight
+
+---
+
+# 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+# 📂 Project Structure
+
+```
+password-strength-checker/
+│
+├── asst/
+│   └── img/
+│       ├── logo.png
+│       └── screenshot.png
+│
+├── index.html
+├── style.css
+├── main.js
+└── README.md
+```
+
+---
+
+# 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Ad-gudu234/password-strength-checker.git
+```
+
+### Open the Project
+
+```bash
+cd password-strength-checker
+```
+
+Simply open **index.html** in your web browser.
+
+No installation or dependencies required.
+
+---
+
+# 🌐 Live Demo
 
 After enabling GitHub Pages:
 
-https://ad-gudu234.github.io/password-strength-checker/
+**https://ad-gudu234.github.io/password-strength-checker/**
 
-🔒 Privacy
+---
 
-CIPHER performs all password analysis locally in the browser. No passwords are stored, transmitted, or shared with any server, ensuring complete user privacy.
+# 🔐 Privacy
 
-🎯 Future Improvements
-Password Generator
-Password Entropy Calculator
-Password Breach Detection
-AI Password Suggestions
-Dark and Light Theme Support
-Multi-language Support
-📄 License
+CIPHER respects your privacy.
 
-This project is licensed under the MIT License.
+✅ Passwords never leave your browser.
 
-👨‍💻 Developer
+- No server processing
+- No data collection
+- No tracking
+- No storage
+- Completely secure
 
-Subhrajeet Behera
+---
 
-Cybersecurity Student | Web Developer | Ethical Hacking Enthusiast
+# 🎯 Future Improvements
 
-GitHub: https://github.com/Ad-gudu234
+- Password Generator
+- Password Breach Detection
+- Password Entropy Score
+- AI Password Suggestions
+- Multi-language Support
+- Light Theme
+- Export Security Report
+- Password History Checker
 
-⭐ Support
+---
 
-If you found this project useful, please consider giving it a ⭐ on GitHub. Your support helps improve the project and encourages future development.
+# 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the repository
+2. Create a new feature branch
+3. Commit your changes
+4. Push your branch
+5. Open a Pull Request
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+# 👨‍💻 Developer
+
+**Subhrajeet Behera**
+
+Cybersecurity Student • Web Developer • Ethical Hacking Enthusiast
+
+GitHub:
+https://github.com/Ad-gudu234
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, please give it a **⭐ Star** on GitHub.
+
+It motivates future development and helps others discover the project.
+
+---
+
+<p align="center">
+Made with ❤️ by <b>Ad-Subhrajeet Behera</b>
+</p>
